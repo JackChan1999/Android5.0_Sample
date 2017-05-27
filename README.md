@@ -1,2 +1,1 @@
-# Android5.0_Sample
-Android5.0 Api 
+Android 5.0 新特性综合Demo
